@@ -1,0 +1,10 @@
+{
+  "typescript.validate.enable": true,
+  "typescript.suggestionActions.enabled": false,
+  "javascript.suggestionActions.enabled": false,
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "editor.codeActionsOnSave": {
+    "source.organizeImports": "never"
+  },
+  "files.eol": "\n"
+}
